@@ -1,3 +1,5 @@
+#Day01 - Part 1
+
 final = 0
 temp = 0
 
@@ -10,7 +12,3 @@ with open('input.txt') as input_file:
                 final = temp
             temp = 0
 print(final)
-
-
-
-
